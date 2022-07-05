@@ -1,6 +1,6 @@
 {
-    "id": "DigitalTwin",
-    "name": "Digital Twin: Halton",
+    "id": "digitalTwin",
+    "name": "DigitalTwin",
     "created": "Tue, 7 Jul 2022 14:40:00 EST",
     "models": [
         {
@@ -9,6 +9,10 @@
         }
     ],
 	"viewerConfigs": {},
-	"viewerContent": {},
+	"viewerContent": {
+        "modelsLoaded": [
+            "main"
+        ]
+    },
 	"viewerState": {}
 }
